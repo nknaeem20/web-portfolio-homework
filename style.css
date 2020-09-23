@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.orange-highlight{
+    color: mediumvioletred;
+    font-weight: bold;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: mediumvioletred;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+}
+.dream-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+   
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 60%;
+    background-color: white;
+}
+.work-area{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-y: 30%;
+   
+}
+footer p{
+    text-align: center;
+    font-size: 13px;
+}
+#founder{
+    color: gray;
+}
+.image-space{
+    margin-right: 20px;
+}
+.img1{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.my-work{
+    text-align: center;
+}
+.footer-button{
+    text-decoration: none;
+    background-color: mediumvioletred;
+    padding: 25px 100px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+
+}
